@@ -9,7 +9,6 @@ Demo
 
 Click either Heads or Tails, and see if your guess matches the flip!
 
-You can play it locally by opening the HTML file in your browser, or host it on GitHub Pages (steps below).
 
 ---
 
